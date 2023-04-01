@@ -12,4 +12,5 @@ Configured the database.yml file:
 
 Step3:  
 Build the application image and run the container.  
+A button appeared asking to create a database, and then to run 2 pending migrations. After that the website was working.
 ![image](https://user-images.githubusercontent.com/106901908/229294276-5fb0f201-d6ba-41a8-b139-b53c92fc6ba3.png)  
